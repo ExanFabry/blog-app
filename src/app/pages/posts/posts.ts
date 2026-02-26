@@ -11,7 +11,7 @@ import { blogPosts } from '../../blog-posts-array';
 })
 export class Posts implements OnInit {
   id!: string;
-  posts = blogPosts;
+  public posts: string[][] = [[]];
 
   http = inject(HttpClient);
   constructor(private route: ActivatedRoute) { }
@@ -20,5 +20,6 @@ export class Posts implements OnInit {
     this.route.paramMap.subscribe(params => {
       this.id = params.get('id')!;
     });
+    this.posts = blogPosts[+(this.id)];
   }
 }
