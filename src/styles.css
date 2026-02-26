@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+/*
+Color palette:
+Background Donkerblauw: #0F172A
+Surface (cards) Slate: #1E293B
+Primary	Blauw: #2563EB
+Secondary Teal: #14B8A6
+Text Primary Lichtgrijs: #E2E8F0
+Text Secondary Grijs: #94A3B8
+*/
+*{
+    background-color: #0F172A;
+}
+a{
+    text-decoration:none;
+}
+nav a{
+    margin-right: 1rem;
+}
+
+p, a{
+    color: #E2E8F0;
+}

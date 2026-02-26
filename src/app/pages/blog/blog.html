@@ -3,6 +3,10 @@
     <a href="/blog">Blog</a>
     <a href="/about">About</a>
 </nav>
-<a [routerLink]="['/blog', 0]">Ga naar post 1</a>
-<a [routerLink]="['/blog', 1]">Ga naar post 2</a>
-<a [routerLink]="['/blog', 2]">Ga naar post 3</a>
+@for (item of posts; track $index) {
+    <section>
+        <p>Week {{ $index + 1 }}</p>
+        <p>{{ item[0][0] }}</p>
+        <a [routerLink]="['/blog', $index]">Lees meer</a>
+    </section>
+}

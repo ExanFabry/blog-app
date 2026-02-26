@@ -1,0 +1,10 @@
+section, section p, section a{
+    background-color: #1E293B;
+}
+section{
+    margin-top: 1rem;
+    padding: 1rem;
+}
+section a{
+    color: #94A3B8;
+}
