@@ -1,16 +1,17 @@
 import { Component, inject, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
+import { blogPosts } from '../../blog-posts-array';
 
 @Component({
-  selector: 'Post',
+  selector: 'app-posts',
   imports: [],
   templateUrl: './posts.html',
   styleUrl: './posts.css',
 })
-
-export class PostsPage implements OnInit {
+export class Posts implements OnInit {
   id!: string;
+  posts = blogPosts;
 
   http = inject(HttpClient);
   constructor(private route: ActivatedRoute) { }

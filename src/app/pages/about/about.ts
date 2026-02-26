@@ -2,13 +2,12 @@ import { Component, inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
-  selector: 'About',
+  selector: 'app-about',
   imports: [],
   templateUrl: './about.html',
   styleUrl: './about.css',
 })
-
-export class AboutPage {
+export class About {
   http = inject(HttpClient);
-  constructor() {}
+  constructor() { }
 }

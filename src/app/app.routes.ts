@@ -1,13 +1,13 @@
 import { Routes } from '@angular/router';
 import { LandingPage } from './pages/landing-page/landing-page';
-import { AboutPage } from './pages/about/about';
-import { BlogPage } from './pages/blog/blog';
-import { PostsPage } from './pages/posts/posts';
+import { About } from './pages/about/about';
+import { Blog } from './pages/blog/blog';
+import { Posts } from './pages/posts/posts';
 
 export const routes: Routes = [
     { path: '', component: LandingPage},
     { path: 'home', component: LandingPage},
-    { path: 'about', component: AboutPage},
-    { path: 'blog', component: BlogPage},
-    { path: 'blog/:id', component: PostsPage }
+    { path: 'about', component: About},
+    { path: 'blog', component: Blog},
+    { path: 'blog/:id', component: Posts }
 ];
