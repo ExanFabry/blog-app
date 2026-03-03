@@ -29,5 +29,13 @@ export let blogPosts = [
             "Vrijdag stond grotendeels in het teken van het oplossen van die rebase - problemen.Het kostte behoorlijk wat tijd om alles correct samen te voegen zodat ik mijn merge request kon voorbereiden.Daarnaast heb ik scripts gerund en de connection string aangepast om de API correct werkend te krijgen.Tot slot heb ik nog extra informatie opgezocht over EF Core om mijn begrip verder te verdiepen."
 
         ]
+    ],
+    [
+        [
+            "Deze week heb ik voornamelijk gewerkt aan de inschrijvingspagina. Ik heb de frontend volledig herwerkt omdat de vorige versie fouten bevatte. Alle onderdelen van de frontend werden opnieuw geïmplementeerd, inclusief de datagrids, en ik heb ervoor gezorgd dat de verschillende pagina’s correct responsive zijn zodat ze op verschillende schermformaten goed functioneren.",
+            "Daarnaast heb ik het onderdeel voor massa-inschrijvingen toegevoegd aan de inschrijvingspagina. Dit vereiste een goede afstemming met de bestaande structuur van de applicatie. Ook heb ik extra functionaliteiten toegevoegd aan de frontend om de gebruiksvriendelijkheid en volledigheid van de pagina te verbeteren.",
+            "Een belangrijk deel van mijn tijd ging naar het beter begrijpen van de backend en de databank. Door zowel in de voormiddag als namiddag hier intensief mee bezig te zijn, heb ik meer inzicht gekregen in hoe de gegevens worden verwerkt en hoe de verschillende onderdelen van het project met elkaar verbonden zijn. Dit helpt mij om gerichter en efficiënter verder te werken aan nieuwe functionaliteiten.",
+            "Tot slot heb ik bijkomende documentatie doorgenomen om mijn kennis van het project te verdiepen. Naast het technische werk heb ik ook verder gewerkt aan mijn blog, zodat mijn voortgang en leerproces goed worden bijgehouden."
+        ]
     ]
 ]
