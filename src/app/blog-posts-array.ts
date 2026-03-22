@@ -37,5 +37,33 @@ export let blogPosts = [
             "Een belangrijk deel van mijn tijd ging naar het beter begrijpen van de backend en de databank. Door zowel in de voormiddag als namiddag hier intensief mee bezig te zijn, heb ik meer inzicht gekregen in hoe de gegevens worden verwerkt en hoe de verschillende onderdelen van het project met elkaar verbonden zijn. Dit helpt mij om gerichter en efficiënter verder te werken aan nieuwe functionaliteiten.",
             "Tot slot heb ik bijkomende documentatie doorgenomen om mijn kennis van het project te verdiepen. Naast het technische werk heb ik ook verder gewerkt aan mijn blog, zodat mijn voortgang en leerproces goed worden bijgehouden."
         ]
+    ],
+    [
+        [
+            "Deze week heb ik verder gewerkt aan de ontwikkeling van het inschrijvingssysteem. Het was een week waarin ik mij vooral heb verdiept in backendontwikkeling en het schrijven van queries, wat voor mij nog relatief nieuw is. Hierdoor duurden sommige taken iets langer dan verwacht, maar ik heb wel veel kunnen bijleren.",
+            "Op maandag ben ik begonnen met het schrijven van een deel van de backend voor de inschrijvingen. Omdat ik nog niet volledig gewend ben aan backendontwikkeling, moest ik hier wat meer tijd voor nemen. In de namiddag hadden we een meeting via Microsoft Teams waarin we onze vooruitgang konden tonen. Tijdens deze meeting kregen we ook feedback, die we later konden verwerken in ons werk.",
+            "Dinsdag ben ik gestart met het verwerken van deze feedback in de frontend. Dit gaf me de kans om de opmerkingen uit de meeting meteen om te zetten in verbeteringen binnen de applicatie.",
+            "Woensdag heb ik mij vooral gefocust op het leren schrijven van LINQ-queries. Hiervoor moest ik eerst wat leerstof opnieuw bekijken, maar na wat oefenen begon het beter te lukken. Uiteindelijk heb ik de eerste vijf queries voor het inschrijvingssysteem kunnen schrijven.",
+            "Donderdag heb ik in de voormiddag verder gewerkt aan deze queries. In de namiddag had ik een gesprek met mijn stagebegeleider en andere studenten om te bespreken hoe onze stage verloopt. Later op de dag had ik ook nog een vergadering met Kevin om verder af te stemmen over het project.",
+            "Op vrijdag heb ik nog enkele onderdelen van de backend binnengehaald (gepulled). Daarbij merkte ik dat ik een fout had gemaakt door database¬logica rechtstreeks in de controllers te schrijven. Dit was een leermoment voor mij, omdat ik nu beter begrijp dat deze logica eigenlijk in een andere laag van de applicatie hoort.",
+            "Over het algemeen was het een leerzame week waarin ik mijn kennis van backendontwikkeling en LINQ verder heb kunnen uitbreiden. Hoewel ik soms wat moest zoeken naar de juiste aanpak, merk ik dat het stilaan vlotter begint te gaan."
+        ]
+    ],
+    [
+        [
+            "Deze week heb ik verder gewerkt aan het inschrijvingssysteem en zowel aan de backend als de frontend verbeteringen aangebracht. Daarnaast kwam ik ook enkele technische problemen tegen die uiteindelijk goede leermomenten bleken te zijn.",
+            "Op maandag had ik problemen met de gebruiker van mijn databank. Hierdoor kon de user geen commands uitvoeren op de databank. Ik heb bijna de hele dag geprobeerd om dit probleem op te lossen. Uiteindelijk heb ik samen met Achraf en Rabin het probleem kunnen vinden en oplossen, waardoor de databankgebruiker weer correct kon werken.",
+            "Dinsdag heb ik mij beziggehouden met het omzetten van SQL-queries naar LINQ-queries. Dit was een goede oefening om mijn kennis van LINQ verder te verbeteren en om de backend beter te laten aansluiten op de technologieën die we gebruiken in het project.",
+            "Woensdag heb ik verder gewerkt aan de frontend. Daarnaast heb ik ook enkele SQL-queries die fouten gaven nagekeken en gecorrigeerd, zodat ze correct uitgevoerd konden worden.",
+            "Op donderdag heb ik opnieuw verder gewerkt aan de frontend van de applicatie. Later op de dag had ik ook een gesprek met mijn stagebegeleider over hoe de stage verloopt. Daarnaast had ik nog een vergadering met het team om de voortgang van het project te bespreken.",
+            "Op vrijdag heb ik een bestand dat John had doorgestuurd ingesteld. Daarna ben ik begonnen met het verwerken van feedback die we hadden gekregen over de frontend, zodat de applicatie verder verbeterd kon worden.",
+            "Deze week stond dus vooral in het teken van het oplossen van technische problemen, het verbeteren van queries en het verder ontwikkelen van de frontend. Door samen te werken met collega’s en feedback te verwerken, heb ik opnieuw veel kunnen bijleren."
+        ]
+    ],
+    [
+        [
+            "Deze week stond in het teken van het afronden van de frontend van inschrijvingen en het zetten van mijn eerste stappen in de backend. Het was een leerrijke week waarin ik zowel technische uitdagingen tegenkwam als vooruitgang boekte in mijn ontwikkeling als developer. Aan het begin van de week heb ik feedback op de frontend verwerkt.Hierbij zat een probleem waar ik al een tijdje mee worstelde, maar dat ik uiteindelijk heb kunnen oplossen.Dit gaf me een goed gevoel en meer vertrouwen in mijn probleemoplossend vermogen.",
+            "Een groot deel van de week heb ik besteed aan het schrijven en verbeteren van LINQ queries. Dit verliep niet altijd zonder problemen.Zo kreeg ik te maken met een issue in Docker waardoor de database tijdelijk niet werkte.Dit zorgde voor wat frustratie, maar uiteindelijk heb ik het probleem kunnen oplossen. Op het einde van de week heb ik gewerkt aan inschrijvingsqueries. Hierbij kwam ik nog enkele moeilijkheden tegen, waardoor het langer duurde dan verwacht, maar ik heb wel afgekregen. Deze week voelde als een duidelijke stap vooruit in mijn stage.Ik heb niet alleen mijn frontend werk afgerond, maar ook de eerste stappen gezet in backend development en het werken met databases.Hoewel ik op enkele momenten vastliep, merk ik dat ik steeds sneller oplossingen begin te vinden."
+        ]
     ]
 ]
