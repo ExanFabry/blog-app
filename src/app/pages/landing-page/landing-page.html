@@ -3,4 +3,16 @@
     <a href="/blog">Blog</a>
     <a href="/about">About</a>
 </nav>
-<p>Landing pagina</p>
+<section class="introduction">
+    <h1>Exan Fabry - Full Stack Developer</h1>
+    <p>
+        This is a simple blog application built with Angular for sharing my internship experience at AP Hogeschool. Here, I will share insights, challenges, and lessons learned during my internship.
+    </p>
+</section>
+<section class="post">
+    <section class="blog-post">
+        <p>Week {{ posts.length }}</p>
+        <p>{{ posts[posts.length - 1][0] }}</p>
+        <a [routerLink]="['/blog', posts.length - 1]">Lees meer</a>
+    </section>
+</section>

@@ -10,14 +10,11 @@ Text Secondary Grijs: #94A3B8
 */
 *{
     background-color: #0F172A;
+    color: #E2E8F0;
 }
 a{
     text-decoration:none;
 }
 nav a{
     margin-right: 1rem;
-}
-
-p, a{
-    color: #E2E8F0;
 }
