@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem;
+  background: #020617;
+  border-bottom: 1px solid #1e293b;
+}
+
+nav a {
+  font-weight: 500;
+}

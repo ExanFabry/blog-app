@@ -8,13 +8,108 @@ Secondary Teal: #14B8A6
 Text Primary Lichtgrijs: #E2E8F0
 Text Secondary Grijs: #94A3B8
 */
-*{
+
+
+
+/* *{
     background-color: #0F172A;
     color: #E2E8F0;
+    font-family: Helvetica, Arial, sans-serif;
 }
 a{
     text-decoration:none;
 }
 nav a{
     margin-right: 1rem;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESET + BASE */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #0f172a;
+  color: #e2e8f0;
+  line-height: 1.7;
+}
+
+/* CONTAINER */
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: clamp(1rem, 5vw, 2rem);
+}
+
+/* HEADINGS */
+h1 {
+  font-size: clamp(2rem, 5vw, 2.5rem);
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+/* TEXT */
+p {
+  color: #cbd5e1;
+}
+
+/* LINKS */
+a {
+  color: #7dd3fc;
+  text-decoration: none;
+  position: relative;
+}
+
+a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: #7dd3fc;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+a:hover::after {
+  transform: scaleX(1);
+}
+
+h1 {
+  background: linear-gradient(90deg, #7dd3fc, #c084fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* FADE IN ANIMATION */
+.page {
+  animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

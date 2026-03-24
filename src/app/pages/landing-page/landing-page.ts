@@ -19,4 +19,8 @@ export class LandingPage {
   ngOnInit() {
     this.posts = blogPosts;
   }
+
+  formatText(text: string) {
+    return text.replace(/\n/g, '<br>'); // vervang alle \n door <br>
+  }
 }

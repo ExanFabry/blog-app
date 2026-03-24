@@ -1,4 +1,4 @@
-img{
+/* img{
     max-width: 30rem;
     height: auto;
 }
@@ -8,4 +8,48 @@ section{
     flex-direction: row;
     justify-content: center;
     gap: 1rem;
+} */
+
+/* Zorg dat alles mooi gecentreerd is */
+section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: clamp(1rem, 5vw, 2rem);
+}
+
+/* IMAGE FIX */
+img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1.5rem auto;
+  display: block;
+}
+
+/* TEKST */
+section p {
+  color: #cbd5e1;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+/* FIRST PARAGRAPH = beetje highlight */
+section p:first-of-type {
+  font-size: 1.1rem;
+}
+
+/* LINK */
+section a {
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+img {
+  transition: 0.3s;
+}
+
+img:hover {
+  transform: scale(1.05);
 }

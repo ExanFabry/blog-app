@@ -1,8 +1,10 @@
-<app-navbar></app-navbar>
-@for (item of posts; track $index) {
+<div class="page">
+    <app-navbar></app-navbar>
+    @for (item of posts; track $index) {
     <section>
         <p>Week {{ $index + 1 }}</p>
         <p>{{ item[0][0] }}</p>
         <a [routerLink]="['/blog', $index]">Lees meer</a>
     </section>
-}
+    }
+</div>

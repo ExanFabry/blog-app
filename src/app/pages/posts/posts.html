@@ -1,6 +1,8 @@
-<app-navbar></app-navbar>
-@for (item of posts; track $index) {
+<div class="page">
+    <app-navbar></app-navbar>
+    @for (item of posts; track $index) {
     @for (i of item; track $index) {
-        <p>{{ i }}</p>
+    <p>{{ i }}</p>
     }
-}
+    }
+</div>
