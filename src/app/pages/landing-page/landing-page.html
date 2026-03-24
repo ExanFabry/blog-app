@@ -1,8 +1,4 @@
-<nav>
-    <a href="/">Home</a>
-    <a href="/blog">Blog</a>
-    <a href="/about">About</a>
-</nav>
+<app-navbar></app-navbar>
 <section class="introduction">
     <h1>Exan Fabry - Full Stack Developer</h1>
     <p>
@@ -10,6 +6,7 @@
     </p>
 </section>
 <section class="post">
+    <h2>Latest Blog Post</h2>
     <section class="blog-post">
         <p>Week {{ posts.length }}</p>
         <p>{{ posts[posts.length - 1][0] }}</p>

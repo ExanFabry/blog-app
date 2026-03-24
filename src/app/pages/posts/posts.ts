@@ -2,10 +2,11 @@ import { Component, inject, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
 import { blogPosts } from '../../blog-posts-array';
+import { Navbar } from "../layout/navbar/navbar";
 
 @Component({
   selector: 'app-posts',
-  imports: [],
+  imports: [Navbar],
   templateUrl: './posts.html',
   styleUrl: './posts.css',
 })

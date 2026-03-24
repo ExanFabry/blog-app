@@ -1,8 +1,4 @@
-<nav>
-    <a href="/">Home</a>
-    <a href="/blog">Blog</a>
-    <a href="/about">About</a>
-</nav>
+<app-navbar></app-navbar>
 @for (item of posts; track $index) {
     <section>
         <p>Week {{ $index + 1 }}</p>
