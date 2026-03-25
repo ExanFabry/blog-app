@@ -1,0 +1,33 @@
+/* CONTAINER */
+.blog-detail {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: clamp(1rem, 5vw, 2rem);
+}
+
+/* TITLE */
+.title {
+  font-size: clamp(2.2rem, 5vw, 2.8rem);
+  margin-bottom: 2rem;
+  line-height: 1.2;
+}
+
+/* CONTENT */
+.content p {
+  font-size: 1.1rem;
+  line-height: 1.9;
+  color: #cbd5e1;
+  margin-bottom: 1.8rem;
+}
+
+/* INTRO PARAGRAPH */
+.content p:first-of-type {
+  font-size: 1.2rem;
+  color: #e2e8f0;
+}
+
+/* SELECTION (cool detail) */
+::selection {
+  background: #7dd3fc;
+  color: #020617;
+}

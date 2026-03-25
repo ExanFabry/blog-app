@@ -1,45 +1,3 @@
-/* .introduction{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 35%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto;
-}
-.introduction p{
-    font-style: italic;
-}
-.blog-post, .blog-post p, .blog-post a{
-    background-color: #1E293B;
-}
-.blog-post{
-    margin-top: 1rem;
-    padding: 2rem;
-    max-width: 35%;
-    font-size: larger;
-}
-.blog-post a{
-    color: #94A3B8;
-}
-.week{
-    font-weight: bold;
-}
-.post{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
-
-
-
-
-
-
-
-
-
 .introduction {
   text-align: center;
   margin-bottom: 3rem;
@@ -47,11 +5,9 @@
 
 .post {
   margin-top: 2rem;
-  max-width: 35%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 auto;
 }
 
 .blog-post {
@@ -69,4 +25,9 @@
 .week {
   font-size: 0.9rem;
   opacity: 0.7;
+}
+
+.introduction, .post{
+  max-width: 35%;
+  margin: 0 auto;
 }

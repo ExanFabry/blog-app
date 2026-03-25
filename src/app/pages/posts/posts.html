@@ -1,8 +1,11 @@
 <div class="page">
     <app-navbar></app-navbar>
-    @for (item of posts; track $index) {
-    @for (i of item; track $index) {
-    <p>{{ i }}</p>
-    }
-    }
+    <div class="container blog-detail">
+        <h1 class="title">Week {{ +(id) + 1 }}</h1>
+        @for (item of posts; track $index) {
+        @for (i of item; track $index) {
+        <p>{{ i }}</p>
+        }
+        }
+    </div>
 </div>
