@@ -79,5 +79,12 @@ export let blogPosts = [
             "De dagen nadien heb ik verder gewerkt aan deze feedback.Tijdens een vergadering kreeg ik ook nuttig advies over hoe ik een update in mijn repository efficiënter kon schrijven, waardoor ik een bestaande functie heb kunnen vereenvoudigen en inkorten.",
             "Op 3 april had ik een vrije dag."
         ]
+    ],
+    [
+        [
+            "Deze week heb ik verder gewerkt aan de feedback op de frontend. Na deze verbeteringen ben ik gestart met het implementeren van de API in de frontend, wat een groot deel van mijn focus werd gedurende de week.",
+            "In de daaropvolgende dagen heb ik deze implementatie verder uitgewerkt en stapsgewijs uitgebreid. Dit proces hielp mij om een beter inzicht te krijgen in de koppeling tussen frontend en backend.",
+            "Later in de week kreeg ik opnieuw feedback op de backend. Deze feedback heb ik grondig verwerkt en uiteindelijk volledig geïmplementeerd tegen het einde van de week."
+        ]
     ]
 ]
