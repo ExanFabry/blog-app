@@ -71,5 +71,13 @@ export let blogPosts = [
             "Verder heb ik de feedback van Kevin verder uitgewerkt en had ik ook een gesprek met meneer Similon over mijn stage, wat een belangrijk moment was om mijn voortgang en verwachtingen te bespreken.",
             "Op het einde van de week heb ik opnieuw gewerkt aan de feedback, extra code binnengehaald en een license key toegevoegd via user secrets."
         ]
+    ],
+    [
+        [
+            "Deze week heb ik mij voornamelijk gefocust op het toepassen van navigation properties binnen mijn queries.In het begin was dit nog wat zoeken, maar naarmate ik er verder mee werkte, begon ik het concept beter te begrijpen en correct toe te passen.",
+            "Op 1 april heb ik de laatste query voor massainschrijvingen afgewerkt.Daarnaast heb ik ook bijgeleerd hoe ik meerdere items kan meegeven via Swagger.In de namiddag ben ik gestart met het verwerken van feedback op de frontend, aangezien de backend feedback op dat moment afgerond was.",
+            "De dagen nadien heb ik verder gewerkt aan deze feedback.Tijdens een vergadering kreeg ik ook nuttig advies over hoe ik een update in mijn repository efficiënter kon schrijven, waardoor ik een bestaande functie heb kunnen vereenvoudigen en inkorten.",
+            "Op 3 april had ik een vrije dag."
+        ]
     ]
 ]
