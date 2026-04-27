@@ -93,5 +93,12 @@ export let blogPosts = [
             "Daarnaast ben ik beginnen nadenken over hoe ik de API-gegevens efficiënt kan gebruiken binnen een tabel in de frontend. Tijdens dit proces heb ik ook bijkomende feedback ontvangen op de API.",
             "In de tweede helft van de week heb ik mij vooral gefocust op het verwerken van deze feedback, met name de opmerkingen die in de codecommentaren bij de functies stonden. Deze feedback heb ik stap voor stap geïmplementeerd om de kwaliteit en structuur van de code te verbeteren."
         ]
+    ],
+    [
+        [
+            "Deze week heb ik mij verder gefocust op het correct ophalen en integreren van de API in de frontend. In het begin van de week heb ik gewerkt aan het beschikbaar maken van de API-gegevens en heb ik daarnaast nog enkele aanpassingen doorgevoerd in de backend.",
+            "Vervolgens heb ik de API succesvol geïmplementeerd in een tabel, wat een belangrijke stap was in de visualisatie van de data. Nadien heb ik functionaliteit toegevoegd waarmee een gebruiker zich kan inschrijven voor een individueel vak of voor een volledige richting.",
+            "Op het einde van de week heb ik mijn code verder opgeschoond en het enrollmentscherm voorgesteld aan Benjamin. Op basis daarvan heb ik waardevolle feedback ontvangen, die ik kan meenemen naar verdere verbeteringen."
+        ]
     ]
 ]
