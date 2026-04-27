@@ -63,5 +63,13 @@ export let blogPosts = [
             "Deze week stond in het teken van het afronden van de frontend van inschrijvingen en het zetten van mijn eerste stappen in de backend. Het was een leerrijke week waarin ik zowel technische uitdagingen tegenkwam als vooruitgang boekte in mijn ontwikkeling als developer.\n\nAan het begin van de week heb ik feedback op de frontend verwerkt.Hierbij zat een probleem waar ik al een tijdje mee worstelde, maar dat ik uiteindelijk heb kunnen oplossen.Dit gaf me een goed gevoel en meer vertrouwen in mijn probleemoplossend vermogen.",
             "Een groot deel van de week heb ik besteed aan het schrijven en verbeteren van LINQ queries. Dit verliep niet altijd zonder problemen.Zo kreeg ik te maken met een issue in Docker waardoor de database tijdelijk niet werkte.Dit zorgde voor wat frustratie, maar uiteindelijk heb ik het probleem kunnen oplossen.\n\nOp het einde van de week heb ik gewerkt aan inschrijvingsqueries. Hierbij kwam ik nog enkele moeilijkheden tegen, waardoor het langer duurde dan verwacht, maar ik heb wel afgekregen.\n\nDeze week voelde als een duidelijke stap vooruit in mijn stage.Ik heb niet alleen mijn frontend werk afgerond, maar ook de eerste stappen gezet in backend development en het werken met databases.Hoewel ik op enkele momenten vastliep, merk ik dat ik steeds sneller oplossingen begin te vinden."
         ]
+    ],
+    [
+        [
+            "Deze week ben ik gestart met het oplossen van een probleem waarbij de frontend niet wilde opstarten.Na wat onderzoek bleek dat het script./ update - apih.sh uitgevoerd moest worden in Git Bash in plaats van Windows PowerShell.Nadat dit probleem was opgelost, ben ik begonnen met het omzetten van mass enrollment queries naar LINQ.",
+            "In de daaropvolgende dagen heb ik verder gewerkt aan deze mass enrollment queries en ben ik ook aan de slag gegaan met feedback van Kevin op de enrollment repository.Tijdens dit proces heb ik bijgeleerd dat het gebruik van[FromBody] in een controller niet toegestaan is in deze context.",
+            "Verder heb ik de feedback van Kevin verder uitgewerkt en had ik ook een gesprek met meneer Similon over mijn stage, wat een belangrijk moment was om mijn voortgang en verwachtingen te bespreken.",
+            "Op het einde van de week heb ik opnieuw gewerkt aan de feedback, extra code binnengehaald en een license key toegevoegd via user secrets."
+        ]
     ]
 ]

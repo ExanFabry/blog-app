@@ -3,10 +3,11 @@ import { HttpClient } from '@angular/common/http';
 import { RouterLink } from '@angular/router';
 import { blogPosts } from '../../blog-posts-array';
 import { Navbar } from "../layout/navbar/navbar";
+import { Footer } from '../layout/footer/footer';
 
 @Component({
   selector: 'app-landing-page',
-  imports: [RouterLink, Navbar],
+  imports: [RouterLink, Navbar, Footer],
   templateUrl: './landing-page.html',
   styleUrl: './landing-page.css',
 })
