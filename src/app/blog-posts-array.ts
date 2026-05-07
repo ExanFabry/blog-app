@@ -100,5 +100,14 @@ export let blogPosts = [
             "Vervolgens heb ik de API succesvol geïmplementeerd in een tabel, wat een belangrijke stap was in de visualisatie van de data. Nadien heb ik functionaliteit toegevoegd waarmee een gebruiker zich kan inschrijven voor een individueel vak of voor een volledige richting.",
             "Op het einde van de week heb ik mijn code verder opgeschoond en het enrollmentscherm voorgesteld aan Benjamin. Op basis daarvan heb ik waardevolle feedback ontvangen, die ik kan meenemen naar verdere verbeteringen."
         ]
+    ],
+    [
+        [
+            "Deze week stond vooral in het teken van het verwerken van feedback en het verder verfijnen van de frontend. Op maandag ben ik meteen gestart met het verwerken van de feedback die ik vrijdag had ontvangen. Ik heb hier een groot deel van kunnen afwerken, waardoor er al snel goede vooruitgang werd geboekt.",
+"Op dinsdag heb ik de resterende feedback volledig afgewerkt. Nadat alles was nagekeken en aangepast, heb ik een merge request ingediend zodat de wijzigingen konden worden gereviewd.",
+"Woensdag kreeg ik opnieuw feedback terug op mijn merge request. Ik ben direct begonnen met het verwerken van deze nieuwe opmerkingen, zodat alles verder verbeterd kon worden en de kwaliteit van de code behouden bleef.",
+"Donderdag lag de focus vooral op de voorbereiding van de demo. Zowel die dag als tijdens het weekend en op de vrije dag heb ik extra tijd gestoken in het verwerken van bijkomende feedback. Het doel was om de frontend er zo goed mogelijk uit te laten zien en ervoor te zorgen dat de code zo clean en overzichtelijk mogelijk bleef."
+
+        ]
     ]
 ]
