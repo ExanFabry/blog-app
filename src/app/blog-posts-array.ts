@@ -104,10 +104,24 @@ export let blogPosts = [
     [
         [
             "Deze week stond vooral in het teken van het verwerken van feedback en het verder verfijnen van de frontend. Op maandag ben ik meteen gestart met het verwerken van de feedback die ik vrijdag had ontvangen. Ik heb hier een groot deel van kunnen afwerken, waardoor er al snel goede vooruitgang werd geboekt.",
-"Op dinsdag heb ik de resterende feedback volledig afgewerkt. Nadat alles was nagekeken en aangepast, heb ik een merge request ingediend zodat de wijzigingen konden worden gereviewd.",
-"Woensdag kreeg ik opnieuw feedback terug op mijn merge request. Ik ben direct begonnen met het verwerken van deze nieuwe opmerkingen, zodat alles verder verbeterd kon worden en de kwaliteit van de code behouden bleef.",
-"Donderdag lag de focus vooral op de voorbereiding van de demo. Zowel die dag als tijdens het weekend en op de vrije dag heb ik extra tijd gestoken in het verwerken van bijkomende feedback. Het doel was om de frontend er zo goed mogelijk uit te laten zien en ervoor te zorgen dat de code zo clean en overzichtelijk mogelijk bleef."
-
+            "Op dinsdag heb ik de resterende feedback volledig afgewerkt. Nadat alles was nagekeken en aangepast, heb ik een merge request ingediend zodat de wijzigingen konden worden gereviewd.",
+            "Woensdag kreeg ik opnieuw feedback terug op mijn merge request. Ik ben direct begonnen met het verwerken van deze nieuwe opmerkingen, zodat alles verder verbeterd kon worden en de kwaliteit van de code behouden bleef.",
+            "Donderdag lag de focus vooral op de voorbereiding van de demo. Zowel die dag als tijdens het weekend en op de vrije dag heb ik extra tijd gestoken in het verwerken van bijkomende feedback. Het doel was om de frontend er zo goed mogelijk uit te laten zien en ervoor te zorgen dat de code zo clean en overzichtelijk mogelijk bleef."
+        ]
+    ],
+    [
+        [
+            "Deze week stond in het teken van voorbereiding, evaluatie en verbetering. Begin van de week werd de code opgeschoond en vond er een statusoverleg plaats met de begeleiders Kevin en John. Dinsdag werd extra frontend feedback verwerkt als laatste voorbereiding op de demo. De demo zelf op woensdag verliep positief op vlak van design, maar wees op technische werkpunten. De rest van de week werd benut om die feedback te verwerken en de codekwaliteit verder te verbeteren. De week werd afgesloten met het tweede intervisiegesprek."
+        ]
+    ],
+    [
+        [
+            "Deze week stond voornamelijk in het teken van het opzetten en schrijven van tests voor het Squid-project. Maandag werd begonnen met wat design, waarna de focus verschoof naar de testontwikkeling. Dinsdag verliep dit moeizaam door technische moeilijkheden. Na het inzetten van .patch scripts kon woensdag de eerste reeks tests met succes worden toegevoegd."
+        ]
+    ],
+    [
+        [
+            "Deze korte week vormde de afsluiting van de stage bij AP. Maandag werd verder gebouwd op de tests van de vorige week met bijkomende tests. Dinsdag werd de stage officieel afgesloten met een presentatiemeeting waarin de laatste resultaten werden getoond aan het team, waarna de stageperiode ten einde kwam."
         ]
     ]
 ]
